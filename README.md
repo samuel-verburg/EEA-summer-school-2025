@@ -1,6 +1,6 @@
-# EEA Summer School 2025: Measurement Methods for Sound Field Analysis, Reconstruction, and Reproduction
+# EAA Summer School 2025: Measurement Methods for Sound Field Analysis, Reconstruction, and Reproduction
 
-This repository contains educational material for the EEA Summer School 2025 focusing on advanced techniques for sound field analysis, reconstruction, and reproduction.
+This repository contains educational material for the EAA Summer School 2025 focusing on advanced techniques for sound field analysis, reconstruction, and reproduction.
 
 ## Course Overview
 
@@ -38,8 +38,8 @@ You can run these notebooks in two ways:
 
 1. **Locally**: Clone this repository and run the notebooks in your local Jupyter environment
    ```bash
-   git clone https://github.com/samuel-verburg/EEA-summer-school-2025.git
-   cd EEA-summer-school-2025
+   git clone https://github.com/samuel-verburg/EAA-summer-school-2025.git
+   cd EAA-summer-school-2025
    
    # Install required packages
    pip install -r requirements.txt
@@ -69,5 +69,5 @@ Under the condition that you give appropriate credit to the original authors.
 
 ## Acknowledgments
 
-- European Acoustics Association (EEA) for organizing the summer school
+- European Acoustics Association (EAA) for organizing the summer school
 - All contributors and instructors involved in developing these materials: Samuel Verburg, Efren Fernandez Grande, Antonio Figueroa Duran.
