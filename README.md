@@ -70,4 +70,4 @@ Under the condition that you give appropriate credit to the original authors.
 ## Acknowledgments
 
 - European Acoustics Association (EEA) for organizing the summer school
-- All contributors and instructors involved in developing these materials: Efren Fernandez Grande, Antonio Figueroa Duran.
+- All contributors and instructors involved in developing these materials: Samuel Verburg, Efren Fernandez Grande, Antonio Figueroa Duran.
